@@ -7,23 +7,9 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "aws-amplify": "^6.15.1",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "react-scripts": "^0.0.0",
-=======
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
->>>>>>> 4045a5d (Initialize project using Create React App)
-=======
-    "aws-amplify": "^6.15.1",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "react-scripts": "^0.0.0",
->>>>>>> a444fdb (installing amplify)
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -49,14 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@aws-amplify/backend": "^1.16.1",
-    "@aws-amplify/backend-cli": "^1.8.0",
-    "aws-cdk-lib": "^2.189.1",
-    "constructs": "^10.4.2",
-    "esbuild": "^0.25.5",
-    "tsx": "^4.20.3",
-    "typescript": "^5.8.3"
   }
 }
